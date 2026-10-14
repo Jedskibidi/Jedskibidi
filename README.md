@@ -5,11 +5,6 @@
 
   <br />
   <br />
-
-<a href="https://github.com/Jedskibidi?tab=repositories"><img src="assets/projects.svg" height="38" alt="Explore my projects" /></a>
-&nbsp;
-<a href="https://github.com/Jedskibidi"><img src="assets/github.svg" height="38" alt="Find me on GitHub: @Jedskibidi" /></a>
-
 </div>
 
 <br />
