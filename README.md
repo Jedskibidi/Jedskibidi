@@ -15,7 +15,7 @@ I'm an aspiring Backend developer who turn ideas into web projects and learn as 
 
 - **Focus:** Backend web development
 - **Exploring:** Node.js and responsive design.
-- **Projects:** [Moodoro](https://moodoro.onrender.com). [Wesync](https://wesync-shmf.onrender.com)
+- **Projects:** [Moodoro](https://moodoro.onrender.com) [Wesync](https://wesync-shmf.onrender.com)
 - **My approach:** build, learn, improve, repeat.
 
 <br />
