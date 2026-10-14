@@ -1,0 +1,18 @@
+Brand artwork sources
+
+Laravel, Node.js, Express, and React: Devicon original SVGs.
+https://github.com/devicons/devicon
+MIT license: LICENSE-devicon.txt (included alongside this file).
+
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg
+
+PHP: the official ElePHPant mascot, from the PHP website.
+https://www.php.net/images/logos/elephpant.svg
+https://www.php.net/elephpant.php
+The mascot was designed by Vincent Pontier.
+
+Icon drawing paths are preserved. Express is displayed in a light color
+for visibility against the dark badge background.
