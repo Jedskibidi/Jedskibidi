@@ -11,6 +11,7 @@
 
 ## These are my projects
 
+- **[Portfolio]**(https://jed-manaloto.vercel.app)
 - **[Moodoro](https://moodoro.onrender.com)**
 - **[Wesync](https://wesync-shmf.onrender.com)**
 
