@@ -26,28 +26,15 @@ I turn ideas into web projects and learn as I build. This is my little corner of
 
 <br />
 
-## My toolbox
+## Tech Stack
 
 <p>
-  <img src="assets/html.svg" height="38" alt="HTML" />
-  <img src="assets/css.svg" height="38" alt="CSS" />
-  <img src="assets/javascript.svg" height="38" alt="JavaScript" />
-  <img src="assets/php.svg" height="38" alt="PHP" />
-  <img src="assets/nodejs.svg" height="38" alt="Node.js" />
-  <img src="assets/git.svg" height="38" alt="Git" />
+  <a href="https://laravel.com"><img src="assets/laravel.svg" height="56" alt="Laravel" /></a>
+  <a href="https://www.php.net"><img src="assets/php.svg" height="56" alt="PHP with the official elephant mascot" /></a>
+  <a href="https://nodejs.org"><img src="assets/nodejs.svg" height="56" alt="Node.js" /></a>
+  <a href="https://expressjs.com"><img src="assets/express.svg" height="56" alt="Express.js" /></a>
+  <a href="https://react.dev"><img src="assets/react.svg" height="56" alt="React.js" /></a>
 </p>
-
-<br />
-
-## Currently in the editor
-
-### [🍅 Moodoro](https://github.com/Jedskibidi/Moodoro)
-
-A web app I'm building and refining, one update at a time.
-
-**What I'm working on:** responsive layouts, cleaner styling, and a smoother experience across screen sizes.
-
-[Take a look at the project →](https://github.com/Jedskibidi/Moodoro)
 
 <br />
 
