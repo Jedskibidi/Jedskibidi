@@ -11,7 +11,7 @@
 
 ## Hey, I'm Jed Manaloto
 
-I'm an aspiring backend developer who turn ideas into web projects and learn as I build.
+I'm an aspiring Backend developer who turn ideas into web projects and learn as I build.
 
 - **Focus:** Backend web development
 - **Exploring:** Node.js and responsive design.
