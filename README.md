@@ -13,7 +13,7 @@
 
 - **[Portfolio](https://jed-manaloto.vercel.app)**
 - **[Moodoro](https://moodoro.onrender.com)**
-- **[Wesync](https://wesync-shmf.onrender.com)**
+- **[Wesync](https://wesync-one.vercel.app/)**
 - **[AuthentiWrite](https://authentiwrite-puce.vercel.app/)** WIP
 
 
