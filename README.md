@@ -15,7 +15,7 @@
 - **[Moodoro](https://moodoro.onrender.com)**
 - **[Wesync](https://wesync-one.vercel.app/)**
 - **[AuthentiWrite](https://authentiwrite-puce.vercel.app/)** WIP
-- **[AssessTrace](https://quiz-integrity-logger.vercel.app/)** WIP
+- **[AssessTrace](https://assesstrace.vercel.app/)** WIP
 
 
 <br />
